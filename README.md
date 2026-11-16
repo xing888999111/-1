@@ -10,7 +10,7 @@
 
 ---
 
-## 📥 [点击这里安装脚本](https://scriptcat.org/zh-CN/script-show-page/4727)
+## 📥 [点击这里安装脚本]http://tampermonkey.net/
 
 ---
 
